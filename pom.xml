@@ -15,6 +15,16 @@
             <scope>test</scope>
         </dependency>
         <dependency>
+            <groupId>commons-collections</groupId>
+            <artifactId>commons-collections</artifactId>
+            <version>3.2.1</version>
+        </dependency>
+        <dependency>
+            <groupId>com.github.penemue</groupId>
+            <artifactId>keap</artifactId>
+            <version>0.3.0</version>
+        </dependency>
+        <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter-params</artifactId>
             <version>5.4.2</version>
