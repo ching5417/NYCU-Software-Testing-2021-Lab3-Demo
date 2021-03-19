@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>0856174</artifactId>
+    <artifactId>NYCU-Software-Testing-2021-Lab3-Demo</artifactId>
     <version>1.0-SNAPSHOT</version>
     <dependencies>
         <dependency>
